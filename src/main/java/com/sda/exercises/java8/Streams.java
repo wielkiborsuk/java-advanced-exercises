@@ -1,4 +1,4 @@
-package com.sda.exercises;
+package com.sda.exercises.java8;
 
 import java.util.ArrayList;
 import java.util.List;
